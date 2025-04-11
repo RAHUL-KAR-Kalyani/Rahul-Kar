@@ -6,7 +6,7 @@ This repository contains the solutions for the First Screening Test (Stage-1).
 
 ## 👨‍💻 Language Used
 
-- **JavaScript (Node.js)**
+- **JavaScript**
 
 ---
 
