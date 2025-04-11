@@ -12,12 +12,12 @@ This repository contains the solutions for the First Screening Test (Stage-1).
 
 ## 📁 File Structure
 
-| File Name     | Problem Description                                      |
-|---------------|----------------------------------------------------------|
-| Problem-1.js  | A basic calculator using class (add, subtract, multiply, divide) |
-| Problem-2.js  | Generate a series of odd numbers based on input length    |
-| Problem-3.js  | Generate a conditional odd number series (odd only if a is odd) |
-| Problem-4.js  | Count numbers divisible by digits 1 through 9 from a list |
+File Name 
+---------------
+Problem-1.js  
+Problem-2.js  
+Problem-3.js  
+Problem-4.js  
 
 ---
 
